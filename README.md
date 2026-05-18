@@ -23,9 +23,8 @@ My work is usually focused on one goal: **make the business run faster with bett
 That includes:
 
 - Building internal platforms that reduce manual work and operational drag
-- Designing AI-assisted workflows for support, sales, underwriting, and knowledge work
+- Designing AI-assisted workflows for support, sales, marketing, and knowledge work
 - Leading engineering teams through roadmap execution, delivery, and technical decision-making
-- Integrating complex systems across core business apps, cloud services, communication platforms, and custom applications
 - Turning early-stage ideas into practical tools people can actually use
 
 ---
@@ -34,7 +33,7 @@ That includes:
 
 - **AI-native business operations** — using LLMs, agents, automation, and structured workflows to unlock leverage across teams
 - **Engineering leadership** — hiring, mentoring, architecture reviews, delivery planning, and scaling technical execution
-- **Salesforce + cloud architecture** — building reliable, auditable systems across CRM, integrations, data, and internal apps
+- **Cloud architecture** — building reliable, auditable systems across CRM, integrations, data, and internal apps
 - **Developer velocity** — improving release pipelines, observability, documentation, and maintainability
 
 ---
@@ -65,7 +64,7 @@ That includes:
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-7FC8FF?style=flat-square&logo=langchain&logoColor=black)
-![Upstash](https://img.shields.io/badge/Upstash%20Vector-00E9A3?style=flat-square&logo=upstash&logoColor=black)
+![Upstash](https://img.shields.io/badge/Upstash%20Vector-79fcd5?style=flat-square&logo=upstash&logoColor=black)
 ---
 
 
