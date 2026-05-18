@@ -82,5 +82,4 @@ I care a lot about:
 - Shipping useful things quickly
 - Automating repetitive work
 - Making systems observable and supportable
-- Mentoring engineers grow into broader technical leaders
-
+- Helping engineers grow into broader technical leaders
