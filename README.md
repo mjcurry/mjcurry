@@ -66,6 +66,7 @@ That includes:
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-7FC8FF?style=flat-square&logo=langchain&logoColor=black)
 ![Upstash](https://img.shields.io/badge/Upstash%20Vector-79fcd5?style=flat-square&logo=upstash&logoColor=black)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-94A3B8?style=flat-square&logo=openrouter&logoColor=black)
 ---
 
 
