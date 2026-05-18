@@ -8,7 +8,7 @@ I lead engineering at the intersection of **AI**, **business operations**, and *
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mike%20Curry-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikejcurry/)
 [![Website](https://img.shields.io/badge/Website-curry.io-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://curry.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-mjcurry-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjcurry)
+[![Udemy](https://img.shields.io/badge/Udemy-mike--curry--11-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/mike-curry-11/)
 
 </div>
 
@@ -25,7 +25,7 @@ That includes:
 - Building internal platforms that reduce manual work and operational drag
 - Designing AI-assisted workflows for support, sales, underwriting, and knowledge work
 - Leading engineering teams through roadmap execution, delivery, and technical decision-making
-- Integrating complex systems across Salesforce, cloud services, communication platforms, and custom applications
+- Integrating complex systems across core business apps, cloud services, communication platforms, and custom applications
 - Turning early-stage ideas into practical tools people can actually use
 
 ---
@@ -60,7 +60,7 @@ That includes:
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=Claude&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-7FC8FF?style=flat-square&logo=langchain&logoColor=black)
 
 ---
 
