@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mike Curry
+# Hey there, I'm Mike 👋
 
 ### Engineering leader building AI-enabled systems, automation, and scalable product infrastructure
 
@@ -57,7 +57,7 @@ That includes:
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ### AI, automation & data
-![AI](https://img.shields.io/badge/Artifical_Intelligence-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=Claude&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
