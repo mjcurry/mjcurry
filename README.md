@@ -47,6 +47,8 @@ That includes:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![MuleSoft](https://img.shields.io/badge/MuleSoft-0176D3?style=flat-square)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black)
 
 ### Languages & frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -55,13 +57,15 @@ That includes:
 ![Apex](https://img.shields.io/badge/Apex-1798C1?style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Cpp](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 ### AI, automation & data
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=Claude&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-7FC8FF?style=flat-square&logo=langchain&logoColor=black)
-
+![Upstash](https://img.shields.io/badge/Upstash%20Vector-00E9A3?style=flat-square&logo=upstash&logoColor=black)
 ---
 
 
@@ -70,7 +74,7 @@ That includes:
 
 I like teams that are practical, curious, and fast-moving.
 
-The best engineering work happens when people understand the business problem, own the outcome, and build systems that are simple enough to survive real life.
+The best engineering work happens when people understand the business problem, own the outcome, and build systems that are simple enough to survive in the real world.
 
 I care a lot about:
 
