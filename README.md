@@ -48,6 +48,7 @@ That includes:
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 
 ### Languages & frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -81,5 +82,5 @@ I care a lot about:
 - Shipping useful things quickly
 - Automating repetitive work
 - Making systems observable and supportable
-- Helping engineers grow into broader technical leaders
+- Mentoring engineers grow into broader technical leaders
 
